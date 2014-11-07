@@ -1,0 +1,7 @@
+{
+    "procs":[
+        {"host":"m0thership", "cmd":"/bin/sh /home/flier/pycharm-2.7.3/bin/pycharm.sh", "name":"pycharm_1" },
+        {"host":"m0thership", "cmd":"/bin/sh /home/flier/pycharm-2.7.3/bin/pycharm.sh", "name":"pycharm_2" },
+        {"host":"m0thership", "cmd":"/pycharm.sh", "name":"pycharm_3" }
+    ]
+}
